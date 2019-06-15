@@ -29,7 +29,7 @@ Popup menu for react-native based on material android design and ActionSheetIOS 
 
 #### iOS
 
-    Support for additional cancel label
+Support for additional cancel label
 
     const items = [
       { id: 'cancel', label: 'Canćel' }, // IF IT IS NOT Cancel
