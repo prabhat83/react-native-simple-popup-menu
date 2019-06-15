@@ -19,13 +19,13 @@ Popup menu for react-native based on material android design and ActionSheetIOS 
       { id: 'delete', label: 'Delete' },
     ];
 
-    <PopupMenu
+    <SimplePopupMenu
         items={items}
         style={styles.button}
         onSelect={this.onMenuPress}
         onCancel={() => console.log('onCancel')}>
         <Text>Show menu</Text>
-    </PopupMenu>
+    </SimplePopupMenu>
 
 #### iOS
 
@@ -37,14 +37,14 @@ Popup menu for react-native based on material android design and ActionSheetIOS 
       { id: 'delete', label: 'Delete' },
     ];
 
-    <PopupMenu
+    <SimplePopupMenu
         items={items}
         style={styles.button}
         onSelect={this.onMenuPress}
         cancelLabel={'Canćel'}
         onCancel={() => console.log('onCancel')}>
         <Text>Show menu</Text>
-    </PopupMenu>
+    </SimplePopupMenu>
 
 
 ### Types
