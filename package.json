@@ -1,0 +1,35 @@
+{
+  "name": "react-native-simple-popup-menu",
+  "version": "1.0.0",
+  "description": "React native material popup menu and iOS ActionSheetIOS based menu",
+  "main": "./src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kheraprabhat/react-native-simple-popup-menu.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "popup",
+    "popover",
+    "menu",
+    "overlay",
+    "native-native",
+    "native",
+    "material"
+  ],
+  "contributors": [
+    {
+      "name": "Prabhat Khera",
+      "email": "prabhat.khera@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kheraprabhat/react-native-simple-popup-menu/issues"
+  },
+  "homepage": "https://github.com/kheraprabhat/react-native-simple-popup-menu#readme"
+}
