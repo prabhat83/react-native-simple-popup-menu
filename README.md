@@ -1,6 +1,7 @@
 # react-native-simple-popup-menu
 
 ![](https://github.com/kheraprabhat/react-native-simple-popup-menu/blob/master/screenshots/iphone.png)
+![](https://github.com/kheraprabhat/react-native-simple-popup-menu/blob/master/screenshots/android.png)
 
 Popup menu for react-native based on material android design and iOS ActionSheetIOS. There is no linking required as it is based on the Native android module and ActionSheetIOS.
 
